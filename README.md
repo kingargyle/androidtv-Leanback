@@ -8,6 +8,11 @@ in order to comply with the UX guidelines of Android TV.
 * Android SDK v17 leanback support library
 * Android SDK v7 recyclerview library
 
+The MAVEN version will bring in the dependencies as necessary.  You will need to have deployed the APKLibs by
+running items from the adt-leanback-support project.  This builds the necessary Apklibs, that are needed and
+also allows you to use the project in eclipse.
+
+
 ## Setup Instructions
 * Compile and deploy to your Android TV device.
 
