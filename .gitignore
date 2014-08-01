@@ -5,6 +5,7 @@
 
 # files for the dex VM
 *.dex
+*~
 
 # Java class files
 *.class
@@ -25,6 +26,7 @@ Thumbs.db
 # Eclipse project files
 .classpath
 .project
+.settings
 
 # Android Studio
 .idea
@@ -32,3 +34,4 @@ Thumbs.db
 .gradle
 build/
 target
+
